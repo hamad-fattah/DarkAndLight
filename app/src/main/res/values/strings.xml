@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DarkAndLight</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="TextView">Text View</string>
+    <string name="Toggle">Toggle</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DarkAndLight" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/ColorPrimaryNight</item>
+        <item name="colorPrimaryDark">@color/ColorPrimaryDarkNight</item>
+        <item name="colorAccent">@color/ColorPrimaryAccentNight</item>
+
+        <item name="android:windowBackground">@color/ColorPrimaryNight</item>
+        <item name="PrimaryTitleColor">@color/PrimaryNightTitleColor</item>
+
+        <item name="spacingSmall">@dimen/dp_8</item>
+        <item name="spacingMedium">@dimen/dp_16</item>
+        <item name="spacingLarge">@dimen/dp_24</item>
+        <item name="spacingXLarge">@dimen/dp_32</item>
+
+<!--        //<item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+    </style>
+</resources>
